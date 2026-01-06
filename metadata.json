@@ -1,0 +1,8 @@
+{
+  "name": "final version of Home Hunt AR",
+  "description": "The ultimate AR-powered real estate suite. Visualize, strategize, and tour your future home with Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
